@@ -7,7 +7,7 @@ ikneed is a [streamlit](https://streamlit.io) app that allows users to identify 
 # Access
 **Visit one of the hosted apps:**  
 
-1. On Streamlit share: https:share.streamlit.io/arvkevi/ikneed/streamlit-share/ikneed.py
+1. On Streamlit share: https://share.streamlit.io/arvkevi/ikneed/streamlit-share/ikneed.py
 2. On Heroku: https://ikneed.herokuapp.com
 
 **Host your own**  
