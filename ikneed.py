@@ -21,7 +21,9 @@ Interactively find the point of maximum curvature in your data with the
 [kneed](https://github.com/arvkevi/kneed) Python package. This app lets 
 you explore the effects of parameter tuning on the identified knee point. All 
 of the parameters from the `KneeLocator` class are interactive in the sidebar. 
-The figure will update when you change the parameters.
+The figure will update when you change the parameters. 
+
+[Source code for ikneed](https://github.com/arvkevi/ikneed)
 """
 
 
